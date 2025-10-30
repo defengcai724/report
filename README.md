@@ -12,7 +12,7 @@
 
 <img width="996" height="362" alt="image" src="https://github.com/user-attachments/assets/87adb076-5b4f-4a7b-9e26-000a6d9d1969" />
 
-造著ChatGPT的要求安裝套件
+照著ChatGPT的要求安裝套件
 
 <img width="1157" height="360" alt="image" src="https://github.com/user-attachments/assets/b1f50530-864e-4111-a784-73921d9a504c" />
 
