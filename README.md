@@ -79,3 +79,16 @@ EXIF 資料是數位相片內建的「拍攝資訊」，記錄相機設定、拍
 
 <img width="1029" height="315" alt="image" src="https://github.com/user-attachments/assets/ac25ca28-88c3-41be-ba12-18575f190f18" />
 
+核心指令：如何將這個python程式碼打包成一個可以獨立執行的執行檔？
+
+<img width="937" height="719" alt="image" src="https://github.com/user-attachments/assets/5a83ba19-3589-468f-bc5d-90da7cc6b263" />
+
+<img width="978" height="558" alt="image" src="https://github.com/user-attachments/assets/4c7bb526-9765-4b5a-b967-01cbfa0f16bf" />
+
+執行檔在dist資料夾中
+
+<img width="853" height="237" alt="image" src="https://github.com/user-attachments/assets/b9ccd2b2-263c-4abe-8b8f-2ba42331928d" />
+
+
+# 結語
+
