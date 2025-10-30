@@ -42,3 +42,40 @@
 執行結果:
 
 <img width="1074" height="280" alt="image" src="https://github.com/user-attachments/assets/390a4d45-cbb9-486a-805d-1b09c17c8872" />
+
+接下來要求ChatGPT能讓圖片也改名
+
+<img width="950" height="538" alt="image" src="https://github.com/user-attachments/assets/29e171ab-a79d-4082-a2ba-fe7df97072ad" />
+
+<img width="1053" height="240" alt="image" src="https://github.com/user-attachments/assets/86abd0d7-ce29-4fd9-abaf-f39fc3f5096d" />
+
+安裝套件
+
+<img width="891" height="701" alt="image" src="https://github.com/user-attachments/assets/68823b2b-59f2-4b18-a34c-51770bb4f7a8" />
+
+我的圖片是下載下來的，EXIF資料被消除了，後來改用筆電拍照才成功運行。
+
+EXIF 資料是數位相片內建的「拍攝資訊」，記錄相機設定、拍攝時間、地點、影像尺寸等技術細節，像是照片的附加說明。
+
+<img width="918" height="605" alt="image" src="https://github.com/user-attachments/assets/9fc76201-bcb6-4359-bb9c-64bd8295f306" />
+
+<img width="545" height="132" alt="image" src="https://github.com/user-attachments/assets/4fcd5aec-91f9-4396-8eb7-0fd5c1f72d6c" />
+
+功能:刪除重複文件，保留最新版本
+
+<img width="1005" height="444" alt="image" src="https://github.com/user-attachments/assets/4ab6193b-1f4e-4c54-8aae-7a03df11d838" />
+
+<img width="963" height="655" alt="image" src="https://github.com/user-attachments/assets/dcd1cbd3-5f09-460b-b91c-a9015fdd21c6" />
+
+執行結果:
+
+<img width="1504" height="306" alt="image" src="https://github.com/user-attachments/assets/32c6078d-f655-46c1-ab0d-f37f280e44c0" />
+
+最後把所有功能整合到一起
+
+<img width="925" height="534" alt="image" src="https://github.com/user-attachments/assets/0120bb68-4256-4aaa-93f5-e40ba698414f" />
+
+最終結果:
+
+<img width="1029" height="315" alt="image" src="https://github.com/user-attachments/assets/ac25ca28-88c3-41be-ba12-18575f190f18" />
+
